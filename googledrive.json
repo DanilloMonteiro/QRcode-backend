@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brascabos-qrcodeproject",
+  "private_key_id": "9ccaefb21f8291140586e64069eca106dc5085e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQvaXtMazC/eON\nRBJP6MwZ+Sf2DX+A+h71xBUccAOmas/YyAB4cXxpgzeclzIPUkntPumZiIdpCCr4\nrKbkUMG0hfbxJiuuDgmFLe9vaqUw9Nty90YEG9caIPzsFtBzgKwcet8Te2/juqdi\nxa9h5gXSQMJ0cIdQ5L11ERK/k1NE3pAvmqqvF94nZwjuq+m0IhS+ZL50Vqc/U+8g\nKZXvrgHi6ffKjirchLV5/YdsoxLEI17NDrhZ/41AI9OZZMt3oG3PE461uey7xovP\nGrjex5Y/78S195ClzCA21t76c+q6BdhKHyc+UPhujB/5B5z/5Mo16RuM9NvW2VBN\nOkdM4qtnAgMBAAECggEAIuBtBtKT8QiGqqXDAYL+ByDwIlZjBWPFJH8cn+G/WmDi\nVXAlU/pyNRbthcZlYNX48CDg2vxK06u/skj2oZM0qjrv5Z7hEXXa9VuVc+I3s5RV\nzkGueyVDrWPxnmi5b3MCTsfg2dp3+W7IZOJuyUarllOnqdjbYxK07QhrP4MYGJth\nvm/X1mbo8QBN8EYqfXjh6/JFU9mXwPWUcSxiQa4fOdLPNBm+k1toX6jqgirS1iMn\nO+M0mCnr8ojyF5haENneeFaj6ICrLmEGGw5Gp5kw3lvxwcO3UOaA7EIBRh+haG70\nAwNwQmn5xmyJF5Zw4/Fey45zBTpJJXWRTvSEB/JWoQKBgQD4MrmOrGUfmSj7/pTf\nX9qd/eW8CsDJRJe4Y9CCi99IyZXgUdQqJt0JP9x7TkBVKrFg/2wPyz2QY7Ak7lBZ\nZm57Ii5sh3qqb7CXpKBm8Y1YAGkT5zg3bquPU9TgqhK8e6PTplYoyUUSq06c/CVi\n1wZEp7jvn+ffHH681lWnDF35bwKBgQDXTWf/8zQvkl/tmLJmN5WcU3O2Ac7T3eav\nHrUb2gC7oAmVCtK40Rowev/AcF46d6+uDnp7Z3gPjbzAGKuTSLLINtoXxg6LZveA\nw+25u3sJ77ztXbLur6xsWdhL1fIwKMWyHNq7dNqcM/duyRY1/TzoqSNwnvsp5vG6\nBw1UQm1BiQKBgHrb2SB30+LNVQ1QWu8rqrMUcHkhtYarrpK2zgshI9kK+Ga++tAW\nxsmCVCixdoTyCjXimeJDj+j+f734PcvTOZM4O1S7x4vAl+CovEHZBkduhJU2moxN\n+xyKudCwP3APn+vv5axw3QE9zT9GTVdc6xxnDdOICyZVG6NsUZ/MLmR/AoGAA2Wb\nQHSL3DxI+yyvk+FIoQDIEJUSuFEF9LldTiUwYcVyoUFcdcIG0cD/DAA53F5LDUn5\nML0/La+kzLsW6en5uCL1ae6cCCMFwKhWtdl5ZXy81FnoGs/2vnbkbL3hZlUeWWMP\nKGn9kP1Y6AyQJyXpshoJDxvTBqQ4KCE4Wp35r1ECgYAHoxZ1+8LbRJEbwvC7b2m1\nQCTG1qBErp37P5CtrwZ1zEaO78FgQW2CVbS8aHUeTBXyfq7v+RcYiTC1jTcEa9TC\nhgA0c60tz8lPQFNtD+fj2BP/IdmnqmfxodPd+XP7vzi6ZflUPXzRWQB8VlTAfoOI\nUcAxhqjczAE6drTuLdwBgg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brasqrcode@brascabos-qrcodeproject.iam.gserviceaccount.com",
+  "client_id": "102665936435782327024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brasqrcode%40brascabos-qrcodeproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
