@@ -9,12 +9,14 @@
   "scripts": {
     "dev": "nodemon src/index.js 3001",
     "start": "node src/index.js",
-    "build": "npx webpack --config src/index.js"
+    "build": "babel src/index.js --out-dir dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "googleapis": "^118.0.0",
