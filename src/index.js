@@ -5,9 +5,12 @@ const cors = require("cors");
 const app = express();
 
 mongoose
-  .connect("mongodb://0.0.0.0:27017/upload", {
-    useNewUrlParser: true,
-  })
+  .connect(
+    "mongodb+srv://danillo324:danillo324@cluster0.kwdapfr.mongodb.net/?retryWrites=true&w=majority",
+    {
+      useNewUrlParser: true,
+    }
+  )
   .then(() => console.log("Connection succesful"))
   .catch((err) => console.log(err));
 
