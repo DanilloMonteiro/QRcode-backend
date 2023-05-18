@@ -7,7 +7,7 @@ const fs = require("fs");
 const { google } = require("googleapis");
 const qrcode = require("qrcode");
 
-const GOOGLE_API_FOLDER_ID = "1aTmjBsbETtsXEg9HaKSXNStA1AGDH7-e";
+const googleApi = process.env.GOOGLE_API_FOLDER_ID;
 
 // Essa parte serve para deletar um arquivo do drive mas nao esta funcionando preciso da Chave ou o id do item
 // no google drive, achei trabalhoso de mais e dessisti
@@ -54,7 +54,7 @@ async function UploadFile(key) {
 
     const fileMetaData = {
       name: `${key}`,
-      parents: [GOOGLE_API_FOLDER_ID],
+      parents: [googleApi],
     };
 
     const media = {
