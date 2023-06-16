@@ -7,7 +7,7 @@ const fs = require("fs");
 const { google } = require("googleapis");
 const qrcode = require("qrcode");
 
-const googleApi = process.env.GOOGLE_API_FOLDER_ID;
+const googleApi = "1aTmjBsbETtsXEg9HaKSXNStA1AGDH7-e";
 
 // Essa parte serve para deletar um arquivo do drive mas nao esta funcionando preciso da Chave ou o id do item
 // no google drive, achei trabalhoso de mais e dessisti
